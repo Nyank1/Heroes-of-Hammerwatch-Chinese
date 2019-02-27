@@ -2200,9 +2200,9 @@
 	<string name="skills.gladiator.pit-fighters.3">召唤一群宠物协助作战，持续15秒. 宠物拥有600血量, 30护甲和30魔抗. 用短剑攻击造成50点物理伤害.</string>
 
 	<string name="skills.gladiator.strength-in-numbers">奥数力量</string>
-	<string name="skills.gladiator.strength-in-numbers.create">Increases the amount of \caac8ffPit Fighters\d and \caac8ffSpinning Gladius\d.</string>
-	<string name="skills.gladiator.strength-in-numbers.1">Increases the amount of \caac8ffPit Fighters\d and \caac8ffSpinning Gladius\d by 1.</string>
-	<string name="skills.gladiator.strength-in-numbers.2">Increases the amount of \caac8ffPit Fighters\d and \caac8ffSpinning Gladius\d by 2.</string>
+	<string name="skills.gladiator.strength-in-numbers.create">增加\caac8ff召唤群灵\d，\caac8ff落英飞花剑\技能的效果.</string>
+	<string name="skills.gladiator.strength-in-numbers.1">I增加\caac8ff召唤群灵\d，\caac8ff落英飞花剑\技能的效果.</string>
+	<string name="skills.gladiator.strength-in-numbers.2">增加\caac8ff召唤群灵\d，\caac8ff落英飞花剑\技能的效果.</string>
 
 
 
